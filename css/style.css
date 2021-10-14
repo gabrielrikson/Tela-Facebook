@@ -87,7 +87,7 @@ section.main{
 
 .abrir-conta p{
     color: black;
-    font-size: 24px;
+    font-size: 22px;
     padding: 16px 0;
 }
 
@@ -108,4 +108,5 @@ form.criar-conta input{
     -webkit-box-shadow: 0px 0px 3px 0px rgba(0,0,0,1);
     -moz-box-shadow: 0px 0px 3px 0px rgba(0,0,0,1);
     box-shadow: 0px 0px 3px 0px rgba(0,0,0,1);
+    cursor: pointer;
 }
