@@ -1,0 +1,27 @@
+@media screen and (max-width: 768px){
+    .abrir-conta{
+        width: 100%;
+        padding: 2% 4%;
+    }
+    .img-pessoas{
+        width: 100%;
+        margin: 20px 10px;
+    }
+    .logo{
+        text-align: center;
+        width: 100%;
+        float: none;
+    }
+    .form-element{
+        padding-top: 10px;
+    }
+    .form-element,.form-element p{
+        text-align: center;
+        width: 100%;
+        float: left;
+    }
+    .form-element input[type = email],
+    .form-element input[type = password]{
+        width: 240px;
+    }
+}
