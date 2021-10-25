@@ -61,11 +61,11 @@
                     <div class="w100">
                         <h2>Data de Nascimento</h2>
                         <select name="nascimento-dia" id="" class="nascimento">
-                            <?php
+<!--                             <?php
                                 for($dia = 1; $dia <= 31; $dia++){
                             ?>
                             <option value="<?php echo $dia; ?>"><?php echo $dia; ?></option>,
-                            <?php } ?>
+                            <?php } ?> -->
                         </select>
                         <select name="mascimento-mes" id="" class="nascimento">
                             <option value="1">Janeiro</option>
